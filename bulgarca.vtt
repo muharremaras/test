@@ -1,8 +1,8 @@
 WEBVTT FILE
 
 STYLE
-video::cue(c.cus) {
-  color: peachpuff;
+::cue(#6) {
+  color: red;
 }
 
 1
@@ -31,8 +31,8 @@ highly possible pneumonia.
 
 6
 00:06.560 --> 00:12.560 position:80%
-<c.cus>SIRS: BODILY REACTION
-TO THE INFECTION INJURIES.</c>
+SIRS: BODILY REACTION
+TO THE INFECTION INJURIES.
 
 7
 00:08.760 --> 00:10.040 line:20%
