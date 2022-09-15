@@ -1,7 +1,7 @@
 WEBVTT FILE
 
 STYLE
-video::cue(c) {
+video::cue(d) {
   color: lime;
 }
 
@@ -12,7 +12,7 @@ video::cue(c) {
 2
 00:00.200 --> 00:01.560
 -Doctor...
-<c>I like lime.</c>
+<d>I like lime.</d>
 -Can you do it?
 
 3
