@@ -1,7 +1,7 @@
 WEBVTT FILE
 
 STYLE
-::cue(c.custom_yellow) { color:green; }
+::cue(c.custom_yellow) { color:green !important; }
 
 1
 00:00.060 --> 00:05.873 position:80% line:20%
