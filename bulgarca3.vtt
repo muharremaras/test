@@ -1,7 +1,7 @@
 WEBVTT FILE
 
 STYLE
-video::cue(v[voice="Kathryn"] {
+video::cue(v[voice="Kathryn"]) {
   color: lime;
 }
 
