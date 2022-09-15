@@ -1,8 +1,5 @@
 WEBVTT FILE
 
-STYLE
-::cue(.loud) { color:red }
-
 1
 00:00.060 --> 00:05.873 position:80% line:20%
 "KASABA DOKTORU"
@@ -125,3 +122,6 @@ I'll remove it.
 26
 00:44.000 --> 00:45.640
 Okay, sir. Understood.
+
+STYLE
+::cue(.loud) { color:red }
