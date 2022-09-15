@@ -1,7 +1,7 @@
 WEBVTT FILE
 
 STYLE
-video::cue(v[voice="Kathryn"]) {
+video::cue(c[voice="Kathryn"]) {
   color: lime;
 }
 
@@ -12,7 +12,7 @@ video::cue(v[voice="Kathryn"]) {
 2
 00:00.200 --> 00:01.560
 -Doctor...
-<v Kathryn>That’s awesome!</v>
+<c Kathryn>I like lime.</c>
 -Can you do it?
 
 3
