@@ -3,6 +3,8 @@ WEBVTT FILE
 STYLE
 video::cue(d) {
   color: lime;
+  font-size:55px;
+  font-family:'Comic Sans';
 }
 
 1
