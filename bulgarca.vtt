@@ -1,7 +1,7 @@
 WEBVTT FILE
 
 STYLE
-::cue(c.yellow) { color:#dff20f }
+::cue(c.custom_yellow) { color:#dff20f }
 
 1
 00:00.060 --> 00:05.873 position:80% line:20%
@@ -29,7 +29,7 @@ highly possible pneumonia.
 
 6
 00:06.560 --> 00:12.560 position:80%
-<c.yellow>SIRS: BODILY REACTION
+<c.custom_yellow>SIRS: BODILY REACTION
 TO THE INFECTION INJURIES.</c>
 
 7
