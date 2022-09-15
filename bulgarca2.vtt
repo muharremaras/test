@@ -124,4 +124,6 @@ I'll remove it.
 Okay, sir. Understood.
 
 STYLE
-::cue(.loud) { color:red }
+video::cue(.loud) {
+  color: yellow;
+}
