@@ -12,6 +12,7 @@ STYLE
 2
 00:00.200 --> 00:01.560
 -Doctor...
+<v.loud Mary>That’s awesome!</v>
 -Can you do it?
 
 3
@@ -126,3 +127,5 @@ I'll remove it.
 26
 00:44.000 --> 00:45.640
 Okay, sir. Understood.
+
+::cue(.loud) { color:red }
