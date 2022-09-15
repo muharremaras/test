@@ -1,5 +1,10 @@
 WEBVTT FILE
 
+STYLE
+video::cue(v[voice="Kathryn"] {
+  color: lime;
+}
+
 1
 00:00.060 --> 00:05.873 position:80% line:20%
 "KASABA DOKTORU"
@@ -7,7 +12,7 @@ WEBVTT FILE
 2
 00:00.200 --> 00:01.560
 -Doctor...
-<c.loud>That’s awesome!</c>
+<v Kathryn>That’s awesome!</v>
 -Can you do it?
 
 3
@@ -122,8 +127,3 @@ I'll remove it.
 26
 00:44.000 --> 00:45.640
 Okay, sir. Understood.
-
-STYLE
-video::cue(.loud) {
-  color: yellow;
-}
