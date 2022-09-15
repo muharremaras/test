@@ -15,8 +15,8 @@ video::cue(custom_style) {
 2
 00:00.200 --> 00:01.560
 -Doctor...
-<custom_style>I like lime.</custom_style>
--Can you do it?
+<custom_style>stilini class ile kendim custom verdim.</custom_style>
+<c.yellow.bg_blue>-bunun klası default desteklenenler arasından geliyor.</c>
 
 3
 00:01.640 --> 00:03.680
