@@ -1,7 +1,7 @@
 WEBVTT FILE
 
 STYLE
-video::cue(c.d) {
+video::cue(custom_style) {
   color: lime;
   font-size:55px;
   font-family :'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -15,7 +15,7 @@ video::cue(c.d) {
 2
 00:00.200 --> 00:01.560
 -Doctor...
-<c.d>I like lime.</c.d>
+<custom_style>I like lime.</custom_style>
 -Can you do it?
 
 3
